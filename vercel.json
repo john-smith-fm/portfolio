@@ -4,11 +4,11 @@
   "rewrites": [
     {
       "source": "/teszt",
-      "destination": "/index.html"
+      "destination": "/teszt.html"
     },
     {
-      "source": "/hello",
-      "destination": "/index.html"
+      "source": "/teszt/",
+      "destination": "/teszt.html"
     }
   ]
 }
