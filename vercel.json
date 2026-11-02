@@ -1,14 +1,4 @@
 {
   "framework": null,
-  "outputDirectory": "public",
-  "rewrites": [
-    {
-      "source": "/teszt",
-      "destination": "/teszt.html"
-    },
-    {
-      "source": "/teszt/",
-      "destination": "/teszt.html"
-    }
-  ]
+  "outputDirectory": "public"
 }
